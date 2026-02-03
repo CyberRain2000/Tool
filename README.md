@@ -2,7 +2,7 @@
 
 ## Mini Game
 
-Run the number guessing mini-game:
+Run the GUI horror mini-game:
 
 ```bash
 python mini_game.py
